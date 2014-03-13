@@ -36,9 +36,9 @@
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Sciencraft.java" partName="Sciencraft.java" path="/Users/freddie/Desktop/Sciencraft/mcp/src/minecraft/net/freddie/mod/Sciencraft.java" title="Sciencraft.java" tooltip="Minecraft/src/net/freddie/mod/Sciencraft.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Minecraft/src/net/freddie/mod/Sciencraft.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="166" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Sciencraft.java" partName="Sciencraft.java" path="/Users/freddie/Desktop/Sciencraft v1.0/mcp/src/minecraft/net/sciencraft/mod/Sciencraft.java" title="Sciencraft.java" tooltip="Minecraft/src/net/sciencraft/mod/Sciencraft.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Minecraft/src/net/sciencraft/mod/Sciencraft.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -199,6 +199,7 @@
 <editors>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/freddie/mod/ScienceMod.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/freddie/mod/Sciencraft.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Minecraft/src/net/sciencraft/mod/Sciencraft.java"/>
 </editors>
 <item historyLabel="ScienceMod.java" index="0">
 <position info="not_deleted" x="0" y="0"/>
@@ -209,8 +210,11 @@
 <item historyLabel="ScienceMod.java" index="0">
 <position info="not_deleted" x="123" y="10"/>
 </item>
-<item active="true" historyLabel="Sciencraft.java" index="1">
-<position info="not_deleted" x="166" y="0"/>
+<item historyLabel="Sciencraft.java" index="1">
+<position info="not_deleted" x="53" y="0"/>
+</item>
+<item active="true" historyLabel="Sciencraft.java" index="2">
+<position info="not_deleted" x="0" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -230,6 +234,9 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Sciencraft.java" tooltip="Minecraft/src/net/sciencraft/mod/Sciencraft.java">
+<persistable path="/Minecraft/src/net/sciencraft/mod/Sciencraft.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ScienceMod.java" tooltip="Minecraft/src/net/freddie/mod/ScienceMod.java">
 <persistable path="/Minecraft/src/net/freddie/mod/ScienceMod.java"/>
 </file>
