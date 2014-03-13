@@ -1,0 +1,30 @@
+2014-03-11 16:37:48 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2014-03-11 16:37:48 [SERVER] [INFO] Generating keypair
+2014-03-11 16:37:48 [SERVER] [INFO] Converting map!
+2014-03-11 16:37:48 [SERVER] [INFO] Scanning folders...
+2014-03-11 16:37:48 [SERVER] [INFO] Total conversion count is 0
+2014-03-11 16:37:49 [SERVER] [INFO] Preparing start region for level 0
+2014-03-11 16:37:50 [SERVER] [INFO] Preparing spawn area: 4%
+2014-03-11 16:37:51 [SERVER] [INFO] Preparing spawn area: 9%
+2014-03-11 16:37:52 [SERVER] [INFO] Preparing spawn area: 17%
+2014-03-11 16:37:53 [SERVER] [INFO] Preparing spawn area: 31%
+2014-03-11 16:37:54 [SERVER] [INFO] Preparing spawn area: 43%
+2014-03-11 16:37:55 [SERVER] [INFO] Preparing spawn area: 56%
+2014-03-11 16:37:56 [SERVER] [INFO] Preparing spawn area: 68%
+2014-03-11 16:37:57 [SERVER] [INFO] Preparing spawn area: 79%
+2014-03-11 16:37:58 [SERVER] [INFO] Preparing spawn area: 87%
+2014-03-11 16:38:00 [SERVER] [INFO] Player422[/127.0.0.1:0] logged in with entity id 295 at (136.5, 73.0, 252.5)
+2014-03-11 16:38:00 [SERVER] [INFO] Player422 joined the game
+2014-03-11 16:38:05 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-03-11 16:38:42 [SERVER] [INFO] Saving and pausing game...
+2014-03-11 16:38:42 [SERVER] [INFO] Saving chunks for level 'Science Mod'/Overworld
+2014-03-11 16:38:42 [SERVER] [INFO] Saving chunks for level 'Science Mod'/Nether
+2014-03-11 16:38:42 [SERVER] [INFO] Saving chunks for level 'Science Mod'/The End
+2014-03-11 16:46:16 [SERVER] [INFO] Stopping server
+2014-03-11 16:46:16 [SERVER] [INFO] Saving players
+2014-03-11 16:46:16 [SERVER] [INFO] Player422 left the game
+2014-03-11 16:46:16 [SERVER] [INFO] Saving worlds
+2014-03-11 16:46:16 [SERVER] [INFO] Saving chunks for level 'Science Mod'/Overworld
+2014-03-11 16:46:16 [SERVER] [INFO] Saving chunks for level 'Science Mod'/Nether
+2014-03-11 16:46:16 [SERVER] [INFO] Saving chunks for level 'Science Mod'/The End
+2014-03-11 16:46:17 [SERVER] [INFO] Stopping server

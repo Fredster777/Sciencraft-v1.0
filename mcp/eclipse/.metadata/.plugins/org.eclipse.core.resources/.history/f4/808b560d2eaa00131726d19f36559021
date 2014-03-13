@@ -1,0 +1,6 @@
+package net.freddie.mod;
+
+@Mod(modid = ScienceMod.modid, name = "Science Mod", version = "Pre-Alpha v0.0001")
+public class ScienceMod {
+
+}

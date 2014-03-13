@@ -1,0 +1,10 @@
+2014-03-11 16:37:06 [CLIENT] [INFO] Setting user: Player422
+2014-03-11 16:37:07 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-11 16:37:08 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-11 16:37:14 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+2014-03-11 16:37:16 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+2014-03-11 16:37:17 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2014-03-11 16:37:17 [CLIENT] [SEVERE] @ Post startup
+2014-03-11 16:37:17 [CLIENT] [SEVERE] 1281: Invalid value
+2014-03-11 16:37:18 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-11 16:46:16 [CLIENT] [INFO] Stopping!
